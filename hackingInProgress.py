@@ -6,7 +6,7 @@ try:
 except: 
     color = False
 
-hacks = [":(){ :|: & };:", "Hacking in Progress...", "ALERT! YOUR SYSTEM HAS BEEN COMPROMISED", "REPAIRS FAILED!!!" "root hack", "root", "!BASH SHELL ERROR!", 'bash', 'ERROR!', "Failure" "Root Security flaw detected: Error code: " + str(random.randint(0, 999)), "You have been fricked by a hacker", "HACKED", "HACKED!", "sudo error", "Attempting repairs on triggers for man-db..."]
+hacks = [":(){ :|: & };:", "Hacking in Progress...", "ALERT! YOUR SYSTEM HAS BEEN COMPROMISED", "REPAIRS FAILED!!!" "root hack", "root", "!BASH SHELL ERROR!", 'bash', 'ERROR!', "Failure" "Root Security flaw detected: Error code: " + str(random.randint(0, 999)), "You have been ******* by a hacker", "HACKED", "HACKED!", "sudo error", "Attempting repairs on triggers for man-db..."]
 zao = [0, 1, " "]
 colors = ['red', 'green', 'blue', 'none']
 
