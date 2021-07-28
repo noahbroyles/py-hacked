@@ -7,7 +7,7 @@ The only external module this program requires is `termcolor`. It will still wor
 
 ### To run:
 #### Mac or Linux (way to go!):
-To install `termcolor`, run: `python3 -m pip install termcolor`. Then to run the program, execute `python3 hackingInProgress.py`
+To install `termcolor`, run: `python3 -m pip install termcolor`. Then to run the program, execute `python3 main.py`
 
 #### Windows (less preferable):
-To install `termcolor`, run: `python -m pip install termcolor`. Then to run the program, execute `python hackingInProgress.py`
+To install `termcolor`, run: `python -m pip install termcolor`. Then to run the program, execute `python main.py`
